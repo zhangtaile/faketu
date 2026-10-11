@@ -1,4 +1,4 @@
-name = '64t'
+name = 'peach'
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
@@ -6,7 +6,7 @@ workers_dev = false
 
 [[kv_namespaces]]
 binding = "KV"
-id = "a1c661c7ae994e31868559b5d4ae6961"
+id = "92b9bedac4f34b32bc37be86bffc463f"
 
 # This is a test comment for auto-deployment verification
 
